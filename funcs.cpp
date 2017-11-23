@@ -1,4 +1,4 @@
-//funcs.cpp
+//func.cpp
 #include "stdafx.h"
 #include "funcs.h"
 double MySum(double a, double b)
@@ -25,3 +25,4 @@ for (int i = 1; i < n; i++)
 res *= num;
 }
 return res;
+}
