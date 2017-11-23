@@ -1,4 +1,4 @@
-//פאיכ program.cpp
+//פיכ program.cpp
 #include "stdafx.h"
 #include <iostream>
 #include "funcs.h"
